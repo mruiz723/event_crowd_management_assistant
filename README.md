@@ -102,7 +102,15 @@ Make sure the correct Python interpreter (from your virtual environment) is sele
 
 ## 🎮 Usage see the Demo Video 📹
 
+
+
 🔗 [Watch Demo](https://www.loom.com/share/edd708ebfc3240118b23c17b0a76ad87?sid=d1125763-8ff9-46ae-99eb-fa070c5b7215)
+
+## App Screenshot
+
+Here’s a preview of our latest app feature:
+
+![App Screenshot](app_screenshot.png)
 
 ## 🔗 Important Links
 
