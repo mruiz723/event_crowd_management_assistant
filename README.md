@@ -120,7 +120,7 @@ Here’s a preview of our latest app feature:
 
 ## 🛠️ Dependencies
 
-- `Python 3.12`
+- `Python 3.12.7`
 - `See the requirements.txt`
 - `ffmpeg`
 
