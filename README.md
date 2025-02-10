@@ -104,6 +104,11 @@ Make sure the correct Python interpreter (from your virtual environment) is sele
 
 🔗 [Watch Demo](https://www.loom.com/share/edd708ebfc3240118b23c17b0a76ad87?sid=d1125763-8ff9-46ae-99eb-fa070c5b7215)
 
+## 🔗 Important Links
+
+*   **GitHub Repository:** [https://github.com/mruiz723/event_crowd_management_assistant](https://github.com/mruiz723/event_crowd_management_assistant)  *(Source Code)*
+*   **Pyenv Repository:** [https://github.com/pyenv/pyenv/#installation] (https://github.com/pyenv/pyenv/#installation)
+
 
 ## 🛠️ Dependencies
 
