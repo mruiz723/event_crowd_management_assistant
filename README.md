@@ -111,6 +111,8 @@ Make sure the correct Python interpreter (from your virtual environment) is sele
 Here’s a preview of our latest app feature:
 
 ![App Screenshot](app_screenshot.png)
+---
+![App Screenshot](app_sreenshot_2.png)
 
 ## 🔗 Important Links
 
