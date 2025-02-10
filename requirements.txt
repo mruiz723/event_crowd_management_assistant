@@ -1,0 +1,12 @@
+ipykernel # IPython kernel for Jupyter
+python-dotenv # environment variables. (Setup OPENAI_API_KEY)
+openai
+requests # is a simple, yet elegant, HTTP library.
+matplotlib # for creating static, animated, and interactive visualizations in Python. (Display an image)
+librosa # for music and audio analysis. (Load an audio)
+ipyaudioworklet # A Jupyter Widget for Web Audio Recording using Audio Worklet
+gradio # to quickly build a demo or web applications
+pillow #  adds image processing capabilities to your Python interpreter. (Open an image)
+pydantic # Pydantic is the most widely used data validation library for Python.
+numpy # Gradio audio returns a NumPy array of the audio data
+pydub # Manipulate audio with a simple and easy high level interface.
