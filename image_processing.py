@@ -77,9 +77,12 @@ class ImageProcessor:
 
     def analyze_crowd(self, image_path, threshold):
         prompt = f"""
-            Analyze the attached image and estimate the number of people. Provide a warning either the space appears too crowded or not. 
-            If threshold is not exceeded, provide a joke warning.
-            Use a threshold of {threshold}.
+            Analyze the attached image to estimate the number of people and determine the type of event
+            (e.g., concert, conference, gala, trade show). Assess the crowd density and overall space utilization.
+            If the estimated number of people exceeds {threshold}, provide a warning that the space appears too crowded.
+            If the threshold is not exceeded, provide a lighthearted joke as a warning instead.
+            Ensure the analysis considers factors such as seating arrangements, standing areas, and stage visibility, 
+            adapting to the specific event type. Respond in 30 words or less. 
         """
 
         base64_image = self._encode_image(image_path)
